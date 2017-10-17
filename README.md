@@ -4,7 +4,20 @@
 
 ![](header.png)
 
-## Problem Statement 
+## Problem statement provided by ministry of Defence
+Airborne platforms e.g. Aircrafts , Helicopters , UAVs etc are
+used for surveillance and reconnaissance activities. It is
+required that the onboard imaging system should capture the
+moving objects on ground and perform data processing in
+real time to recognize the objects. Images shall be captured
+from onboard camera installed on airborne platforms
+(Aircrafts , Helicopters , UAVs etc ). The identified ground
+moving object needs to be matched with pre-stored object
+signature. Accordingly the object type needs to be recognized
+in terms of the objects(e.g. Car , Bus etc), object type (e.g.
+Car type: Swift Desire etc ).
+
+
 ```sh
 npm install my-crazy-module --save
 ```
