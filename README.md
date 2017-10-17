@@ -2,7 +2,7 @@
 #[Winner of Smart India Hackathon 2017 Defence Production](https://innovate.mygov.in/sih2017/)
 
 
-![](header.png)
+![](main.png)
 
 ## Problem statement provided by ministry of Defence
 Airborne platforms e.g. Aircrafts , Helicopters , UAVs etc are
