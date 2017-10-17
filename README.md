@@ -3,7 +3,7 @@
 
 
 ![](main.png)
-
+![](img2.png)
 ## Problem statement provided by ministry of Defence
 Airborne platforms e.g. Aircrafts , Helicopters , UAVs etc are
 used for surveillance and reconnaissance activities. It is
