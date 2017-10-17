@@ -3,8 +3,9 @@
 
 
 <img src="16.png" width="425"/> <img src="main.png" width="425"/> 
-![](16.png)![](main.png)
-![](15.png)![](img2.png)
+
+<img src="15.png" width="425"/> <img src="img2.png" width="425"/> 
+
 
 
 ## Problem statement provided by ministry of Defence
