@@ -1,13 +1,10 @@
 # Vehicle-classification-and-Localization-in-aerial-image
-#[@Winner of Smart India Hackathon 2017 Defence Production](https://innovate.mygov.in/sih2017/)
+#[Winner of Smart India Hackathon 2017 Defence Production](https://innovate.mygov.in/sih2017/)
 
 
 ![](header.png)
 
-## Installation
-
-OS X & Linux:
-
+## Problem Statement 
 ```sh
 npm install my-crazy-module --save
 ```
