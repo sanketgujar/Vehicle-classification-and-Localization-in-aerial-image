@@ -18,8 +18,9 @@ signature. Accordingly the object type needs to be recognized
 in terms of the objects(e.g. Car , Bus etc), object type (e.g.
 Car type: Swift Desire etc ).
 
-##DEMO
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/KFHx6e__Q0w)
+
+## DEMO
+[![Watch the video](https://github.com/sanketgujar/Vehicle-classification-and-Localization-in-aerial-image/blob/master/16.png)](https://youtu.be/KFHx6e__Q0w)
 
 
 
