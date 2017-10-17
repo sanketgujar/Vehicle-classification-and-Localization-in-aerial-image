@@ -34,7 +34,7 @@ If a vehicle is on the boundary of a block, every block will be selected touchin
 ## Development setup
 
 Language  : Python
-#Dependencies:
+Dependencies:
 1. Keras
 2. Tensorflow
 3. Numpy
