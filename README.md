@@ -2,9 +2,10 @@
 #[Winner of Smart India Hackathon 2017 Defence Production](https://innovate.mygov.in/sih2017/)
 
 
-![](main.png)
-![](img2.png)
-![](Final_SIH.mp4)
+![](16.png)![](main.png)
+![](15.png)![](img2.png)
+
+
 ## Problem statement provided by ministry of Defence
 Airborne platforms e.g. Aircrafts , Helicopters , UAVs etc are
 used for surveillance and reconnaissance activities. It is
